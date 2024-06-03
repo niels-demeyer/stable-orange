@@ -1,3 +1,9 @@
+# Important commands 
+
+start web server 
+````./webui.sh --skip-torch-cuda-test --precision full --no-half``
+
+
 # Important links 
 https://github.com/ndanny/stable-diffusion-codespaces
 https://docs.github.com/en/codespaces/developing-in-a-codespace/working-collaboratively-in-a-codespace
