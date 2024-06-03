@@ -1,9 +1,11 @@
 # Important commands 
 
+install model 
+cd models/Stable-diffusion && wget https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt && cd ../..
+
 start web server 
 ./webui.sh --skip-torch-cuda-test --precision full --no-half
 
-cd models/Stable-diffusion && wget https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt && cd ../..
 
 # Important links 
 https://github.com/ndanny/stable-diffusion-codespaces
