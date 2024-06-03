@@ -1,3 +1,9 @@
+# Important links 
+https://github.com/ndanny/stable-diffusion-codespaces
+https://docs.github.com/en/codespaces/developing-in-a-codespace/working-collaboratively-in-a-codespace
+
+
+
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
