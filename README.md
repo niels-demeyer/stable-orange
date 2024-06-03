@@ -1,7 +1,7 @@
 # Important commands 
 
 start web server 
-````./webui.sh --skip-torch-cuda-test --precision full --no-half``
+./webui.sh --skip-torch-cuda-test --precision full --no-half
 
 cd models/Stable-diffusion && wget https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt && cd ../..
 
